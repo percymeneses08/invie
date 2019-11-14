@@ -1,8 +1,8 @@
 {
-  "homepage": "https://percymeneses08.github.io/invie/",
   "name": "invie",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://percymeneses08.github.io/invie",
   "dependencies": {
     "cheet.js": "^0.3.3",
     "react": "^16.11.0",
