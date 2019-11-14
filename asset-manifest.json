@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/invie/static/css/main.7beb98a3.chunk.css",
+    "main.js": "/invie/static/js/main.a5fe6740.chunk.js",
+    "main.js.map": "/invie/static/js/main.a5fe6740.chunk.js.map",
+    "runtime-main.js": "/invie/static/js/runtime-main.e8ef22b1.js",
+    "runtime-main.js.map": "/invie/static/js/runtime-main.e8ef22b1.js.map",
+    "static/js/2.140b072f.chunk.js": "/invie/static/js/2.140b072f.chunk.js",
+    "static/js/2.140b072f.chunk.js.map": "/invie/static/js/2.140b072f.chunk.js.map",
+    "index.html": "/invie/index.html",
+    "precache-manifest.5dcbe2a5d3bd8d5c0ed2edb71aa07a3f.js": "/invie/precache-manifest.5dcbe2a5d3bd8d5c0ed2edb71aa07a3f.js",
+    "service-worker.js": "/invie/service-worker.js",
+    "static/css/main.7beb98a3.chunk.css.map": "/invie/static/css/main.7beb98a3.chunk.css.map",
+    "static/media/invie.css": "/invie/static/media/team-platzi-azul.70297162.jpg",
+    "static/media/animations.css": "/invie/static/media/corazon.313656d4.png",
+    "static/media/easter-a.png": "/invie/static/media/easter-a.ba2e415e.png",
+    "static/media/easter-b.png": "/invie/static/media/easter-b.7d7a81dc.png",
+    "static/media/invie-acustica.png": "/invie/static/media/invie-acustica.ec9833fc.png",
+    "static/media/invie-classic.png": "/invie/static/media/invie-classic.6cdc30e0.png",
+    "static/media/logo.svg": "/invie/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8ef22b1.js",
+    "static/js/2.140b072f.chunk.js",
+    "static/css/main.7beb98a3.chunk.css",
+    "static/js/main.a5fe6740.chunk.js"
+  ]
+}
